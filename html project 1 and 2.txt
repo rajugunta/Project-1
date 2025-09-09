@@ -1,0 +1,251 @@
+2.<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Second web page
+        </title>
+    </head>
+    <body>
+        <h1>Aditya ADC</h1>
+        <h2>Aditya ADC</h2>
+        <h3>Aditya ADC</h3>
+        <h4>Aditya ADC</h4>
+        <h5>Aditya ADC</h5>
+        <H6>Aditya ADc</H6>
+    </body>
+    </html>
+
+
+1.<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            First Web Page
+        </title>
+    </head>
+    <body>
+        G.RAJU
+    </body>
+    </html>
+
+3.<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            paragraph tag
+        </title>
+    </head>
+    <body>
+        <h1> paragraph</h1>
+        <p>Hypertext Markup Language (HTML) is the standard markup language.<br>t defines the content and structure of web content.</p>
+        <br>
+        <p>It is often assisted by technologies such as Cascading Style Sheets.<br>(CSS) and scripting languages such as JavaScript, a programming language.</p>
+        <br>
+    </body>
+</html>
+
+4.!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            HTML Lists Example
+        </title>
+    </head>
+    <body>
+        <h2>Ordered List(Numbered)</h2>
+        <ol>
+            <li>Wheat</li>
+            <li>Red Rice</li>
+            <li>Dal</li>
+        </ol>
+        <h2>Unordered List(Bullet points)</h2>
+        <ul>
+            <li>Orange</li>
+            <li>grapes</li>
+            <li>pineapple</li>
+        </ul>
+        <h2>Definition List(items)</h2>
+        <dl>
+            <dt>Ginger</dt>
+            <dd>A starchy vegetable commonly used in cooking.</dd>
+        <dt>Carrot</dt>
+          </dd>Also used in vegetables for various dashes.</dd>
+          </dl>
+    </body>
+</html>
+
+5.<ol type='A'>
+    <li>Raju</li>
+    <li>pradeep</li>
+    <li>Koushik</li>
+    <li>Raghava/li>
+  </ol>
+
+6.<ol type='a'>
+    <li>Raju</li>
+    <li>pradeep</li>
+    <li>Koushik</li>
+    <li>Raghava/li>
+  </ol>
+
+7.<ol type='I'>
+    <li>Raju</li>
+    <li>pradeep</li>
+    <li>Koushik</li>
+    <li>Raghava/li>
+  </ol>
+
+
+8.<ol type='i'>
+    <li>Raju</li>
+    <li>pradeep</li>
+    <li>Koushik</li>
+    <li>Raghava/li>
+  </ol>
+
+9.<ol start="20">
+    <li>Raju</li>
+    <li>pradeep</li>
+    <li>Koushik</li>
+    <li>Raghava/li>
+  </ol>
+
+10.ul type="Square">
+    <li>Raju</li>
+    <li>pradeep</li>
+    <li>Koushik</li>
+    <li>Raghava/li>
+  </ul>
+
+11.ul type="Circle">
+    <li>Raju</li>
+    <li>pradeep</li>
+    <li>Koushik</li>
+    <li>Raghava/li>
+  </ul>
+
+12.<ul type="disc">
+    <li>Raju</li>
+    <li>pradeep</li>
+    <li>Koushik</li>
+    <li>Raghava/li>
+  </ul>
+
+13.<ul type="disc">
+    <li>Raju</li>
+    <li>pradeep</li>
+    <li>Koushik</li>
+    <li>Raghava</li>
+  </ul>
+
+
+14.<ul type="a">
+    <li>Iphone</li>
+    <ol>
+        <li>13 pro</li>
+        <li>14 pro</li>
+    </ol>
+    <li>samsung</li>
+    <ol>
+        <li>samsung x galaxy</li>
+        <ol>
+            <li>samsung s 25</li>
+            <li>samsung ultera</li>
+        </ol>
+    </ol>
+    
+
+
+15.!DOCTYPE html>
+<html>
+    <head>
+        <title>HTML Table Tag</title>
+        <head>
+        <body>
+            <table border="1">
+                <tr>
+                    <th>Name</th>
+                    <th>Age</th>
+                    <th>city</th>
+                </tr>
+                <tr>
+                    <td>Raju</td>
+                    <td>20</td>
+                    <td>America</td>
+                </tr>
+                <tr>
+                    <td>Pradeep</td>
+                    <td>19</td>
+                    <td>candana</td>
+                </tr>
+            </table>
+        </body>
+    </head>
+</html>
+
+
+
+PROJECT DAY 2
+
+1.<!DOCTYPE html>
+<html>
+    <head>
+        <title>HTML Image Example</title>
+    </head>
+    <body>
+        <img src="C:\Users\realme\Pictures\Screenshots\Screenshot 2025-02-17 182559.png" alt="C:\Users\realme\Pictures\Screenshots\Screenshot 2025-02-17 182559.png"heighr="500" width="700">
+    </body>
+</html>
+
+
+2.<!DOCTYPE html>
+<html>
+    <head>
+        <title>HTML videos</title>
+    </head>
+    <body>
+        <video src="C:\Users\realme\Videos\2025-01-21 19-26-35.mkv"height="450" width="800" controls></video>
+    </body>
+</html>
+
+3.!DOCTYPE html>
+<html>
+    <head>
+        <title>Marquee Tag Example</title>
+    </head>
+    <body>
+        <h2>Scrolling Text Example</h2>
+        <marquee>Hello World to website!starts with began.</marquee>
+    </body>
+</html>
+
+
+
+4.!DOCTYPE html>
+<html>
+    <head>
+        <title>Marquee Tag Example</title>
+    </head>
+    <body>
+        <h1>MARQUEE TAG</h1>
+    <marquee direction="right"bgcolour="lightblue" width="50%"height="50px">scrolling Left to Right</marquee>
+    <marquee direction="left"bgcolour="lightgreen" width="80"height="50px">scrolling Right to Left</marquee>
+    <marquee direction="down"bgcolour="lightcoral" width="50%"height="200px">
+        <img src="C:\Users\realme\Pictures\Screenshots\Screenshot 2025-02-20 110156.png" alt="scrollingC:\Users\realme\Pictures\Screenshots\Screenshot 2025-02-20 110156.png 1"></marquee>
+        <marquee direction="up"bgcolour="lightyellow"width="50%"height="200px">
+            <img src="C:\Users\realme\Pictures\Screenshots\Screenshot 2025-02-20 110156.png" alt="scrollingC:\Users\realme\Pictures\Screenshots\Screenshot 2025-02-20 110156.png 2"></marquee>
+     </body>
+  </html>
+
+
+
+5.<!DOCTYPE html>
+<html>
+    <head>
+        <title>Image Background</title>
+    </head>
+    <body background="C:\Users\realme\Downloads\Laptop.webp">
+        <p>Laptops are portable computers designed to be carried around, making them ideal for use in
+            various locations like home, office, or on the go.They are powered by rechargeable batteries,</p>   
+     </body>
+</html>
