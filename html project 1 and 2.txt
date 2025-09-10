@@ -1,19 +1,4 @@
-2.<!DOCTYPE html>
-<html>
-    <head>
-        <title>
-            Second web page
-        </title>
-    </head>
-    <body>
-        <h1>Aditya ADC</h1>
-        <h2>Aditya ADC</h2>
-        <h3>Aditya ADC</h3>
-        <h4>Aditya ADC</h4>
-        <h5>Aditya ADC</h5>
-        <H6>Aditya ADc</H6>
-    </body>
-    </html>
+
 
 
 1.<!DOCTYPE html>
@@ -28,24 +13,9 @@
     </body>
     </html>
 
-3.<!DOCTYPE html>
-<html>
-    <head>
-        <title>
-            paragraph tag
-        </title>
-    </head>
-    <body>
-        <h1> paragraph</h1>
-        <p>Hypertext Markup Language (HTML) is the standard markup language.<br>t defines the content and structure of web content.</p>
-        <br>
-        <p>It is often assisted by technologies such as Cascading Style Sheets.<br>(CSS) and scripting languages such as JavaScript, a programming language.</p>
-        <br>
-    </body>
-</html>
-
 
    
+
 
 
 
