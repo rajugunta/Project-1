@@ -185,30 +185,11 @@
 
 
 
-PROJECT DAY 2
-
-1.<!DOCTYPE html>
-<html>
-    <head>
-        <title>HTML Image Example</title>
-    </head>
-    <body>
-        <img src="Devop life Cycle Diagram.png" alt="C:\Users\realme\Pictures\Screenshots\Screenshot 2025-02-17 182559.png"heighr="500" width="700">
-    </body>
-</html>
 
 
-2.<!DOCTYPE html>
-<html>
-    <head>
-        <title>HTML videos</title>
-    </head>
-    <body>
-        <video src="C:\Users\realme\Videos\2025-01-21 19-26-35.mkv"height="450" width="800" controls></video>
-    </body>
-</html>
 
-3.!DOCTYPE html>
+
+!DOCTYPE html>
 <html>
     <head>
         <title>Marquee Tag Example</title>
@@ -221,32 +202,6 @@ PROJECT DAY 2
 
 
 
-4.!DOCTYPE html>
-<html>
-    <head>
-        <title>Marquee Tag Example</title>
-    </head>
-    <body>
-        <h1>MARQUEE TAG</h1>
-    <marquee direction="right"bgcolour="lightblue" width="50%"height="50px">scrolling Left to Right</marquee>
-    <marquee direction="left"bgcolour="lightgreen" width="80"height="50px">scrolling Right to Left</marquee>
-    <marquee direction="down"bgcolour="lightcoral" width="50%"height="200px">
-        <img src="C:\Users\realme\Pictures\Screenshots\Screenshot 2025-02-20 110156.png" alt="scrollingC:\Users\realme\Pictures\Screenshots\Screenshot 2025-02-20 110156.png 1"></marquee>
-        <marquee direction="up"bgcolour="lightyellow"width="50%"height="200px">
-            <img src="C:\Users\realme\Pictures\Screenshots\Screenshot 2025-02-20 110156.png" alt="scrollingC:\Users\realme\Pictures\Screenshots\Screenshot 2025-02-20 110156.png 2"></marquee>
-     </body>
-  </html>
 
 
 
-5.<!DOCTYPE html>
-<html>
-    <head>
-        <title>Image Background</title>
-    </head>
-    <body background="C:\Users\realme\Downloads\Laptop.webp">
-        <p>Laptops are portable computers designed to be carried around, making them ideal for use in
-            various locations like home, office, or on the go.They are powered by rechargeable batteries,</p>   
-     </body>
-
-</html>
