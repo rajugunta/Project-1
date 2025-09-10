@@ -193,7 +193,7 @@ PROJECT DAY 2
         <title>HTML Image Example</title>
     </head>
     <body>
-        <img src="C:\Users\realme\Pictures\Screenshots\Screenshot 2025-02-17 182559.png" alt="C:\Users\realme\Pictures\Screenshots\Screenshot 2025-02-17 182559.png"heighr="500" width="700">
+        <img src="Devop life Cycle Diagram.png" alt="C:\Users\realme\Pictures\Screenshots\Screenshot 2025-02-17 182559.png"heighr="500" width="700">
     </body>
 </html>
 
@@ -248,4 +248,5 @@ PROJECT DAY 2
         <p>Laptops are portable computers designed to be carried around, making them ideal for use in
             various locations like home, office, or on the go.They are powered by rechargeable batteries,</p>   
      </body>
+
 </html>
